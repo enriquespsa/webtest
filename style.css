@@ -53,13 +53,13 @@
 .sec1 h1 {
     color: white;
     text-shadow: 0px 2px 1px black;
-    font-size: 14px;
+    font-size: 18px;
     text-align: center;
     margin-bottom: 10px;
 }
 
 .sec1 p {
     color: white;
-    font-size: 12px;
+    font-size: 14px;
     text-align: justify;
 }

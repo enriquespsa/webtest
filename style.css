@@ -44,19 +44,22 @@
 }
 
 .sec1 article {
-    background-color: rgb(250, 89, 61);
+    background-color: rgb(255, 96, 68);
     border-radius: 3px;
     margin: 10px;
     padding: 15px;
 }
 
 .sec1 h1 {
-    color: black;
+    color: white;
+    text-shadow: 0px 2px 1px black;
+    font-size: 14px;
     text-align: center;
     margin-bottom: 10px;
 }
 
 .sec1 p {
     color: white;
+    font-size: 12px;
     text-align: justify;
 }
